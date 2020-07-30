@@ -44,7 +44,7 @@ user43:
 user44: 
 user45: 
 user46: 
-user47: 
+user47: welcome to Git! 
 user48: 
 user49: 
 user50: 
